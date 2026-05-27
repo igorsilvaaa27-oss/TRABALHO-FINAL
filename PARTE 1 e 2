@@ -1,0 +1,48 @@
+PARTE 1 — Pesquisa e Fundamentação 
+Questão 1 — Pensamento Computacional
+Pesquise e responda:
+
+A) O que é pensamento computacional?
+- Um jeito inteligente de encarar desafios que temos no dia a dia, usando lógica a nosso favor.
+
+B) Explique os conceitos:
+
+•	Decomposição: Dividir o problema, separar em etapas para se tornar mais fácil de gerenciar.
+
+•	Abstração: Basicamente focar no essencial, ignorar detalhes que não ajudamm a chegar na resolução para o problema.
+
+•	Reconhecimento de padrões: Procurar semelhanças, padrões e tendências no problema para ajudar a chegar na resolução.
+
+•	Algoritmo: Criar um passo a passo, criar um plano para executar tudop da melhor forma.
+
+C) Explique a diferença entre:
+•	AND (&&) 
+- No AND se apenas uma afirmação não for verdadeira, tudo deixa de ser verdadeiro.
+
+•	OR (||) 
+- No OR já é um pouco diferente, já que basta apenas uma condição para ser verdadeiro. 
+
+
+PARTE 2 — Tabela Verdade 
+Questão 2 — Tabela Verdade
+Considere:
+p = idade >= 18
+q = possuiCarteira == 1
+
+A) Complete a tabela verdade para:
+p && q
+p	q	p && q
+V	V	  V
+V	F	  F
+F	V	  F
+F	F	  F
+
+B) Complete a tabela verdade para:
+p || q
+| p | q | p || q |
+|---|---|--------|
+| V | V |    V    |
+| V | F |    V    |
+| F | V |    V    |
+| F | F |    F    |
+
