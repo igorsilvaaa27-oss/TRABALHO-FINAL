@@ -1,0 +1,40 @@
+//DADOS DE ENTRADA:
+//1. Idade do participante
+//2. Informação de autorização (1 para sim e 0 para não)
+
+
+//DADOS DE SAÍDA:
+//1. Mensagem de entrada liberada ou negada
+//2. Total de participantes liberados
+//3. Total de participantes negados
+//4. Maior idade informada
+//5. Média das idades dos participantes
+
+
+//PASSOS DO PROGRAMA:
+
+//1. Criar as variáveis:
+//idades[10], autorizacao, somaIdades, liberados, negados, maiorIdade
+
+//2. Criar a variável media do tipo float
+
+//3. Fazer a leitura da idade dos 10 participantes
+
+//4. Guardar as idades dentro do vetor
+
+//5. Ler se o participante possui autorização
+
+//6. Verificar se a idade é maior ou igual a 18
+//ou se possui autorização
+
+//7. Mostrar se a entrada foi liberada ou negada
+
+//8. Contar quantas entradas foram liberadas
+
+//9. Contar quantas entradas foram negadas
+
+//10. Verificar qual foi a maior idade digitada
+
+//11. Calcular a média das idades
+
+//12. Exibir os resultados finais
